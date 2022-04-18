@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html lang="en">
+<device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="ie-edge"
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="main header" class="big-success text-white p-4 mb-3">
+<div class="container">
+<div id="main" class="card card -body">
+<h2 class="title">HEllo word</h2>
+<h1 style="background-color:MediumSeaGreen;">Items Lister </h1>
+<h2 class="title">Add Items</h2>
+
+<form class="form-inline mb-3">
+<input type="text" class="form-control mr-2">
+<input type="submit" class="btn btn-dark" value="submit">
+</form>
+<h2 class="title">Items</h2>
+<u1 id="items" class="list-group">
+
+<label for="item">Item 1<label>
+<input type="text" id="item">
+</div>
+
+<label for="item">Item 2<label>
+<input type="text" id="item">
+</div>
+<div>
+<label for="item">Item 3<label>
+<input type="text" id="item">
+<div>
+<label for="item">Item 4<label>
+<input type="text" id="item">
+</div>
+</u1>
+</div>
+</div>
+<script src="dom.js"></script>
+</body>
+
+
+
+
